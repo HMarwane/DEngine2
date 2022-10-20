@@ -1,0 +1,1 @@
+cmake -S ./deps/entt/. -B ./deps/entt/. -G "Visual Studio 17 2022"
